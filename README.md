@@ -39,6 +39,8 @@
 
 ## T-Tests on Suspension Coils (Summary):
 
+P-Value for Lot 3 is 0.04 which is less than the standard significance level. Which implies there are issues within the production of this lot. Further investigation is required.
+
 - t.test to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
 ![t test_all](https://user-images.githubusercontent.com/74985818/121767857-fa18ed00-cb28-11eb-9a79-4962e32e4b41.png)
