@@ -43,21 +43,23 @@ P-Value for Lot 3 is 0.04 which is less than the standard significance level. Wh
 
 - t.test to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
-![t test_all](https://user-images.githubusercontent.com/74985818/121767857-fa18ed00-cb28-11eb-9a79-4962e32e4b41.png)
+![t test_all_2 png](https://user-images.githubusercontent.com/74985818/121768141-8bd52a00-cb2a-11eb-89d3-d174526a99a2.jpg)
+
 
 - t.test on each lot using subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 
 - Lot 1:
 
-![ttest_Lot1](https://user-images.githubusercontent.com/74985818/121767876-13219e00-cb29-11eb-91f5-fd0d2d3ab675.png)
+![ttest_Lot1_2 png](https://user-images.githubusercontent.com/74985818/121768144-9099de00-cb2a-11eb-9093-1d072cc15efb.jpg)
 
 - Lot 2
 
-![ttest_Lot2](https://user-images.githubusercontent.com/74985818/121767896-39dfd480-cb29-11eb-8d31-dfd1e1bff55e.png)
+![ttest_Lot2_2 png](https://user-images.githubusercontent.com/74985818/121768148-955e9200-cb2a-11eb-9818-90a13ebe8b82.jpg)
 
 - Lot 3
 
-![ttest_Lot3](https://user-images.githubusercontent.com/74985818/121767899-3e0bf200-cb29-11eb-94c3-82ac8366a4a6.png)
+![ttest_Lot3_2 png](https://user-images.githubusercontent.com/74985818/121768154-9a234600-cb2a-11eb-8244-a57090f48490.jpg)
+
 
 
 
