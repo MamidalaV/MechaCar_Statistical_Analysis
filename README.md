@@ -36,3 +36,36 @@
 
      ![InkedD2 B4_LI png](https://user-images.githubusercontent.com/74985818/121766786-6a704000-cb22-11eb-9442-b25224c41eff.jpg)
 
+
+## T-Tests on Suspension Coils (Summary):
+
+- t.test to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+
+![t test_all](https://user-images.githubusercontent.com/74985818/121767857-fa18ed00-cb28-11eb-9a79-4962e32e4b41.png)
+
+- t.test on each lot using subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+
+- Lot 1:
+
+![ttest_Lot1](https://user-images.githubusercontent.com/74985818/121767876-13219e00-cb29-11eb-91f5-fd0d2d3ab675.png)
+
+- Lot 2
+
+![ttest_Lot2](https://user-images.githubusercontent.com/74985818/121767896-39dfd480-cb29-11eb-8d31-dfd1e1bff55e.png)
+
+- Lot 3
+
+![ttest_Lot3](https://user-images.githubusercontent.com/74985818/121767899-3e0bf200-cb29-11eb-94c3-82ac8366a4a6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
